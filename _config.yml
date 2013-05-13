@@ -1,0 +1,11 @@
+permalink: /:year/:month/:title
+pygments: true
+destination: 'public'
+
+production_url: http://teoljungberg.com
+title : Teo Ljungberg
+author:
+  name: Teo Ljungberg
+  email: teo.ljungberg@gmail.com
+  github: https://github.com/metamorfos
+  twitter: https://twitter.com/teoljungberg

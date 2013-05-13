@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: white;
+  font-family: 'Droid Sans Mono', "courier new", courier, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-align: center;
+}
+
+h1 {
+  font-size: 100%;
+}
+
+h2 {
+  font-size: 95%;
+}
+
+h3, h4, h5, h6 {
+  font-size: 90%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 10px;
+}
+
+h1 {
+  margin-bottom: 1em;
+}
+
+strong {
+  font-size: 90%;
+}
+
+p {
+  margin: 1em 0;
+}
+
+a {
+  color: #268BD2;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a.extra {
+  color: black;
+  font-weight: bold;
+}
+
+em {
+  font-style: inherit;
+  background: #FFFECA;
+  padding: 0 0.1em;
+}
+
+/* Home */
+
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+  margin-left: none;
+}
+
+ul.posts li {
+  line-height: 1.75em;
+  margin-left: none;
+}
+
+/* About */
+
+ul.about {
+  margin-bottom: 2em;
+  margin-left: 1.25em;
+}
+
+ul.about li {
+  line-height: 1.75em;
+}
+
+/* Site */
+
+.site {
+  font-size: 110%;
+  text-align: justify;
+  width: 40em;
+  margin: 3em auto 2em auto;
+  line-height: 1.5em;
+}
+
+.title {
+  font-weight: bold;
+  margin-bottom: 2em;
+}
+
+.site .title a {
+  color: #333333;
+  text-decoration: none;
+}
+
+.site .title a:hover {
+  color: black;
+}
+
+.site .title a.extra {
+  color: #aaa;
+  text-decoration: none;
+  margin-left: 1em;
+}
+
+.site .title a.extra:hover {
+  color: black;
+}
+
+.site .meta {
+  color: #aaa;
+}
+
+.site .footer {
+  font-size: 85%;
+  color: #666;
+  border-top: 4px solid #eee;
+  margin-top: 2em;
+  overflow: hidden;
+}
+
+.site .footer .contact {
+  float: left;
+  margin-right: 3em;
+}
+
+.site .footer .contact a {
+  color: #268BD2;
+  font-weight: bold;
+}
+
+/* Posts */
+
+#post ul,
+#post ol {
+  margin-left: 1.25em;
+}
+
+#related {
+  margin-top: 2em;
+}
+
+#related h2 {
+  margin-bottom: 1em;
+}
