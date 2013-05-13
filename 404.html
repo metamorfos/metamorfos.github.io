@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<article  class="text-center">
+  <h2>Oh snap, that page doesn't exist</h2>
+  <footer>
+    <div id="related">
+        <h3>Latest Posts</h3>
+        <ul>
+            {% for post in site.posts limit:5 %}
+                <li><a href="{{ post.url }}">{{post.title }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+  </footer>
+</article>
