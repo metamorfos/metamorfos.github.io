@@ -39,7 +39,7 @@ strong {
 }
 
 p {
-  margin: 1em 0;
+  margin: 1em 0em;
 }
 
 a {
@@ -122,24 +122,6 @@ ul.about li {
 
 .site .meta {
   color: #aaa;
-}
-
-.site .footer {
-  font-size: 85%;
-  color: #666;
-  border-top: 4px solid #eee;
-  margin-top: 2em;
-  overflow: hidden;
-}
-
-.site .footer .contact {
-  float: left;
-  margin-right: 3em;
-}
-
-.site .footer .contact a {
-  color: #268BD2;
-  font-weight: bold;
 }
 
 /* Posts */
