@@ -77,12 +77,12 @@ ul.posts li {
 
 /* About */
 
-ul.about {
+ul.unindent {
   margin-bottom: 2em;
   margin-left: 1.25em;
 }
 
-ul.about li {
+ul.unindent li {
   line-height: 1.75em;
 }
 
