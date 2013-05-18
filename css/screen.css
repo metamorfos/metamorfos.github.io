@@ -125,8 +125,7 @@ ul.unindent li {
 
 /* Posts */
 
-#post ul,
-#post ol {
+#post ul, #post ol {
   margin-left: 1.25em;
 }
 
