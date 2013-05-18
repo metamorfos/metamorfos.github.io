@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 title: "From Zero to Hero, Part I"
 ---
 
@@ -8,8 +9,7 @@ no experience to be a Rails Developer and loving every day of it!_
 
 # From Zero to Hero, Part I
 I started at the University of Lund in the fall of 2012 starting a
-Bachelors degree in Mathematics(it is every bit as fun as it
-sounds...).
+Bachelors degree in Mathematics.
 After living in Lund for about 2 months I applied for a position as
 Junior Rails developer in my hometown Stockholm. At the time, I've been
 programming Ruby for about a year.
