@@ -1,6 +1,6 @@
 * {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 html, body {
@@ -8,11 +8,11 @@ html, body {
 }
 
 body {
-  background-color: white;
-  font-family: 'Merriweather Sans', sans-serif;
-  font-weight: 300;
-  -webkit-font-smoothing: antialiased;
-  text-align: center;
+    background-color: white;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased;
+    text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -20,8 +20,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 100%;
-  margin-bottom: 1em;
+    font-size: 100%;
+    margin-bottom: 1em;
 }
 
 h2 {
@@ -37,13 +37,13 @@ strong {
 }
 
 p {
-  margin: 1em 0em;
-  font-size: 17px;
+    margin: 1em 0em;
+    font-size: 17px;
 }
 
 a {
-  color: #268BD2;
-  text-decoration: none;
+    color: #268BD2;
+    text-decoration: none;
 }
 
 a:hover {
@@ -51,34 +51,34 @@ a:hover {
 }
 
 a.extra {
-  color: black;
-  font-weight: bold;
+    color: black;
+    font-weight: bold;
 }
 
 em {
-  font-style: inherit;
-  background: #FFFECA;
-  padding: 0 0.1em;
+    font-style: inherit;
+    background: #FFFECA;
+    padding: 0 0.1em;
 }
 
 /* Home */
 
 ul.posts {
-  list-style-type: none;
-  margin-bottom: 2em;
-  margin-left: none;
+    list-style-type: none;
+    margin-bottom: 2em;
+    margin-left: none;
 }
 
 ul.posts li {
-  line-height: 1.75em;
-  margin-left: none;
+    line-height: 1.75em;
+    margin-left: none;
 }
 
 /* About */
 
 ul.unindent {
-  margin-bottom: 2em;
-  margin-left: 1.25em;
+    margin-bottom: 2em;
+    margin-left: 1.25em;
 }
 
 ul.unindent li {
@@ -88,21 +88,21 @@ ul.unindent li {
 /* Site */
 
 .site {
-  font-size: 110%;
-  text-align: justify;
-  width: 40em;
-  margin: 3em auto 2em auto;
-  line-height: 1.5em;
+    font-size: 110%;
+    text-align: justify;
+    width: 40em;
+    margin: 3em auto 2em auto;
+    line-height: 1.5em;
 }
 
 .title {
-  font-weight: bold;
-  margin-bottom: 2em;
+    font-weight: bold;
+    margin-bottom: 2em;
 }
 
 .site .title a {
-  color: #333333;
-  text-decoration: none;
+    color: #333333;
+    text-decoration: none;
 }
 
 .site .title a:hover {
@@ -110,9 +110,9 @@ ul.unindent li {
 }
 
 .site .title a.extra {
-  color: #aaa;
-  text-decoration: none;
-  margin-left: 1em;
+    color: #aaa;
+    text-decoration: none;
+    margin-left: 1em;
 }
 
 .site .title a.extra:hover {
