@@ -9,13 +9,19 @@ html, body {
 
 body {
   background-color: white;
-  font-family: 'Droid Sans Mono', "courier new", courier, sans-serif;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 300;
   -webkit-font-smoothing: antialiased;
   text-align: center;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 10px;
+}
+
 h1 {
   font-size: 100%;
+  margin-bottom: 1em;
 }
 
 h2 {
@@ -26,20 +32,13 @@ h3, h4, h5, h6 {
   font-size: 90%;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  margin-top: 10px;
-}
-
-h1 {
-  margin-bottom: 1em;
-}
-
 strong {
   font-size: 90%;
 }
 
 p {
   margin: 1em 0em;
+  font-size: 17px;
 }
 
 a {
