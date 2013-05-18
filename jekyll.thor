@@ -20,6 +20,6 @@ class Jekyll < Thor
       post.puts "---"
     end
 
-    system("open", filename)
+    system("vim", filename)
   end
 end
