@@ -90,8 +90,10 @@ intact. But these saved session would get slower after a few days of
 hacking which bugged me a bit
 
 Then I found this neat function that automatically renames your `tmux`
-windows depending on the current directory. Now I have one `tmux` that
-I attach to both on and off work, which I can shutdown if I so please.
+windows depending on the current directory. Now I have one `tmux`
+session that I attach to both on and off work, which I can shutdown
+as I please becuase getting my benamed windows in place is easy
+peasy, japanese!
 
 Here is the snippet:
 
