@@ -9,16 +9,15 @@ title: About
     <h2>You can find me online in these places, and some more</h2>
     <ul class="unindent">
         <li>
-            <a rel="me" href="{{ site.author.twitter }}">twitter</a>
+            <a rel="me" href="{{ site.author.twitter }}" onClick="_gaq.push(['_trackEvent', 'About', 'Click', 'Twitter'])";>twitter</a>
         </li>
         <li>
-            <a rel="me" href="{{ site.author.github }}">github</a>
+            <a rel="me" href="{{ site.author.github }}" onClick="_gaq.push(['_trackEvent', 'About', 'Click', 'Github'])";>github</a> </li>
+        <li>
+            <a rel="me" href="{{ site.author.linkedin }}" onClick="_gaq.push(['_trackEvent', 'About', 'Click', 'LinkedIn'])";>linkedIn</a>
         </li>
         <li>
-            <a rel="me" href="{{ site.author.linkedin }}">linkedIn</a>
-        </li>
-        <li>
-            <a rel="me" href="mailto:{{ site.author.email }}" itemprop="email">e-mail</a>
+            <a rel="me" href="mailto:{{ site.author.email }}" itemprop="email" onClick="_gaq.push(['_trackEvent', 'About', 'Click', 'Email'])";>e-mail</a>
         </li>
     </ul>
 </div>
