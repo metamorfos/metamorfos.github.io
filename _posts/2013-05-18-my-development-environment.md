@@ -116,8 +116,7 @@ export PROMPT_COMMAND=rename_tmux_window_to_current_dir
 
 # Conclusion
 If you are more interested of my environment check out my
-[dotfiles][my_dotfiles] for more configurations or ask me anything on
-[Twitter]({{ site.author.twitter }})
+[dotfiles][my_dotfiles] for more configurations
 
 [mynewsdesk]:http://mynewsdesk.com
 [tmux]:http://tmux.sourceforge.net/
