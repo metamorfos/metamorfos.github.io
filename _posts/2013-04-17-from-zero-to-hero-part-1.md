@@ -4,8 +4,8 @@ published: true
 title: "From Zero to Hero, Part I"
 ---
 
-_This is going to be a little two part story on how I went from having
-no experience to be a Rails Developer and loving every day of it!_
+_This is going to be a little two - four part story on how I went from
+having no experience to be a Rails Developer and loving every day of it!_
 
 # From Zero to Hero, Part I
 I started at the University of Lund in the fall of 2012 starting a
