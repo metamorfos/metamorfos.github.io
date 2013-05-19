@@ -141,3 +141,12 @@ ul.unindent li {
 #related h2 {
   margin-bottom: 1em;
 }
+
+#follow {
+  margin-top: 1.5em;
+}
+
+#follow #twitter {
+  font-style: italic;
+  color: #444;
+}
