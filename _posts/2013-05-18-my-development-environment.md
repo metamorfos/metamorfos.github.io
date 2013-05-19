@@ -73,23 +73,25 @@ Tmux lets you switch easily between several programs in one terminal,
 split the windows, detach them (they keep running in the background)
 and reattach them to a different terminal
 
-The major reason why I run terminal `vim` is due to `tmux` and the flexibility
-the combo gives me.
+The major reason why I run terminal `vim` is due to `tmux` and the
+flexibility the combo gives me.
 
-Usually I have a few splits open inside `tmux`, one for running `vim` and
-a few more for random terminal usage. The combination makes it is extremely easy
-to open up a new split to do something else and then continue along your train
-of thought of whatever you were coding on before getting distracted.
+Usually I have a few splits open inside `tmux`, one for running `vim`
+and a few more for random terminal usage. The combination makes it is
+extremely easy to open up a new split to do something else and then
+continue along your train of thought of whatever you were coding on
+before getting distracted.
 
-I used to have different `tmux` sessions depending on what I was doing, I had
-one for work and one for play. I persisted my work session to disk so I could
-reattach to it even though I rebooted my laptop and all of my names of
-all of my different project windows would still be intact. But these saved
-session would get slower after a few days of hacking which bugged me a bit
+I used to have different `tmux` sessions depending on what I was doing,
+I had one for work and one for play. I persisted my work session to
+disk so I could reattach to it even though I rebooted my laptop and all
+of my names of all of my different project windows would still be
+intact. But these saved session would get slower after a few days of
+hacking which bugged me a bit
 
-Then I found this neat function that automatically renames your `tmux` windows
-depending on the current directory. Now I have one `tmux` that I attach to both
-on and off work, which I can shutdown if I so please.
+Then I found this neat function that automatically renames your `tmux`
+windows depending on the current directory. Now I have one `tmux` that
+I attach to both on and off work, which I can shutdown if I so please.
 
 Here is the snippet:
 
@@ -104,8 +106,9 @@ rename_tmux_window_to_current_dir() {
 }
 {% endhighlight %}
 
-Just add `rename_tmux_window_to_current_dir` to your `precmd` function in `zsh`,
-in `bash` just add the code below to your config and you are all set.
+Just add `rename_tmux_window_to_current_dir` to your `precmd` function
+in `zsh`, in `bash` just add the code below to your config and you are
+all set.
 
 {% highlight bash %}
 export PROMPT_COMMAND=rename_tmux_window_to_current_dir
