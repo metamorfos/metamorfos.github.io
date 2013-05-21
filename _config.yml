@@ -3,7 +3,8 @@ pygments: true
 destination: 'public'
 
 production_url: http://teoljungberg.com
-title : Teo Ljungberg
+title: Teo Ljungberg
+description: I love pair-programming, standing desks and beer!
 author:
   name: Teo Ljungberg
   email: teo.ljungberg@gmail.com
