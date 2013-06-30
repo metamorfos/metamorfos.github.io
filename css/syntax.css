@@ -1,3 +1,7 @@
+.highlight pre code {
+    font-family: 'Source Code Pro', sans-serif;
+    font-size: 16px;
+}
 .highlight .c { color: #586E75 } /* Comment */
 .highlight .err { color: #93A1A1 } /* Error */
 .highlight .g { color: #93A1A1 } /* Generic */
