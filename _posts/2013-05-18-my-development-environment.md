@@ -73,9 +73,10 @@ More cool stuff can be found in my open sourced [dotfiles][my_dotfiles]
 repository on Github
 
 # Tmux
-Tmux lets you switch easily between several programs in one terminal,
-split the windows, detach them (they keep running in the background)
-and reattach them to a different terminal
+>  a "terminal multiplexer: it enables a number of terminals (or windows), each
+>  running a separate program, to be created, accessed, and controlled from a
+>  single screen. tmux may be detached from a screen and continue running in the
+>  background, then later reattached."
 
 The major reason why I run terminal `vim` is due to `tmux` and the
 flexibility the combo gives me.
