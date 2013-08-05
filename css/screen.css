@@ -16,19 +16,21 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     margin-top: 10px;
-}
+    font-family: 'Droid Serif', serif;
+    font-weight: normal;
+  }
 
 h1 {
-    font-size: 100%;
+    font-size: 130%;
     margin-bottom: 1em;
 }
 
 h2 {
-    font-size: 95%;
+    font-size: 120%;
 }
 
 h3, h4, h5, h6 {
-    font-size: 90%;
+    font-size: 110%;
 }
 
 strong {
