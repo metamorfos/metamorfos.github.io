@@ -39,6 +39,10 @@ Most of them, besides ctrlp and nerdtree, are made by the fantastic
 while*
 
 ## A few mods to CtrlP
+
+_Edit: I ditched CtrlP in favor of [Command-T][command-t], the speed
+increase you get with Command-T is not to be trifled with!_
+
 As programmers we spend a large part of our days jumping between files,
 and the easiest way to get around is with a fuzzy finder.
 
@@ -125,3 +129,4 @@ If you are more interested of my environment check out my
 [vim]:http://vim.org
 [tpope]:http://github.com/tpope
 [my_dotfiles]:https://github.com/metamorfos/dotfiles
+[command-t]:https://github.com/wincent/Command-T
