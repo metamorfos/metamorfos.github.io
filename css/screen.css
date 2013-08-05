@@ -133,6 +133,15 @@ ul.unindent li {
     color: #aaa;
 }
 
+.site a.title {
+    font-weight: normal;
+}
+
+.site span.date {
+    color: #aaa;
+    float: right;
+}
+
 /* Posts */
 
 #post ul, #post ol {
