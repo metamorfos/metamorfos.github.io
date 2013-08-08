@@ -9,7 +9,10 @@ layout: default
         <h3>Check out some of my latest posts</h3>
         <ul class="unindent">
             {% for post in site.posts limit:5 %}
-                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                <li>
+                    <a class="title" href="{{ post.url }}">{{ post.title }}</a>
+                    <span class="date">{{ post.date | date: "%b %Y" }}</span>
+                </li>
             {% endfor %}
         </ul>
     </div>
