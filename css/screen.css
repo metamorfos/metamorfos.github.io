@@ -12,6 +12,7 @@ body {
     font-family: 'EB Garamond', serif;
     -webkit-font-smoothing: antialiased;
     text-align: center;
+    color: #222;
 }
 
 h1, h2, h3, h4, h5, h6 {
