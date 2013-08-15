@@ -1,3 +1,3 @@
-# teoljungberg.com
+# blog.teoljungberg.com
 
 My personal website and blog.

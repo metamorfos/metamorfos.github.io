@@ -68,4 +68,4 @@ for the future. I had no idea how though this would be the hardest
 thing I've done in my life so far. But there was a light at the end of
 the tunnel, see what in [part ii][part_ii]
 
-[part_ii]:http://teoljungberg.com/from-zero-to-hero-part-2
+[part_ii]:http://blog.teoljungberg.com/from-zero-to-hero-part-2
