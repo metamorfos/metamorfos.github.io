@@ -1,7 +1,7 @@
 permalink: /:year/:month/:title
 pygments: true
 
-production_url: http://blog.teoljungberg.com
+production_url: http://teoljungberg.com
 title: Teo Ljungberg
 description: I love pair-programming, standing desks and beer!
 author:
