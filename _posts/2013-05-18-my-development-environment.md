@@ -129,5 +129,5 @@ If you are more interested of my environment check out my
 [tmux]:http://tmux.sourceforge.net/
 [vim]:http://vim.org
 [tpope]:http://github.com/tpope
-[my_dotfiles]:https://github.com/metamorfos/dotfiles
+[my_dotfiles]:https://github.com/teoljungberg/dotfiles
 [command-t]:https://github.com/wincent/Command-T
