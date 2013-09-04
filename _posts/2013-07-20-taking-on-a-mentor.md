@@ -46,8 +46,8 @@ since I was able to skip the tedious process of reading books cover to cover
 and doing small boring tasks. We went more of the [Rousseau][rousseau_wiki]
 path, of picking a project, and then learning as we go with a small foundation
 to iterate upon and an idea of how Ruby works and what we can do with it. _The
-gist of Rousseau's ideas on education is to find what the student is it
-interested in learning, to peak their interest._
+gist of Rousseau's ideas on education is to find what the student is interested 
+in learning, to peak their interest._
 
 _I was motivated by writing code instead of reading about it_, so that's what
 we the first couple of weeks. After a while, structuring and designing
