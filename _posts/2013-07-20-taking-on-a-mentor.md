@@ -12,9 +12,9 @@ programing, which I was introduced to during High School, but no more than
 that.
 
 After graduating, I decided that I should learn how to create these things I
-enjoyed so much; to learn how to code. The summer of my graduation, I read 
-about popular languages to see what would be a great fit for me. My experience 
-in programming with Java and C# had been dull. I decided to look into 
+enjoyed so much; to learn how to code. The summer of my graduation, I read
+about popular languages to see what would be a great fit for me. My experience
+in programming with Java and C# had been dull. I decided to look into
 alternative languages, and the choice fell between Ruby and Python
 Thanks to Simon, I ended up as a Rubynaught.
 
@@ -23,16 +23,16 @@ We started out by going through the design principles of Ruby, to abolish my
 Java and Python customs, and to give me a proper programming foundation.
 We both felt that the way to start was to skim through some of the popular
 books about Ruby and picking out the important chapters. We never read a book
-cover to cover, Simon wanted me to constantly learn the things I found 
+cover to cover, Simon wanted me to constantly learn the things I found
 interesting, so we started out by writing code.
 After each chapter Simon had prepared a task to solve or a few questions that
 needed answering.
 As my confidence in writing code grew, the size of the tasks I received grew
 tougher and more motivating.
 
-And so the time passed until my skill-set was extensive enough to take on a 
-project on my own.  Simon wrote a fantastic article a while back, [What I wish 
-a Ruby programmer had told me one year ago][simons_article], where he tells the 
+And so the time passed until my skill-set was extensive enough to take on a
+project on my own.  Simon wrote a fantastic article a while back, [What I wish
+a Ruby programmer had told me one year ago][simons_article], where he tells the
 story on how he started learning Ruby all those years ago.
 And the first project he started on was a Todo application, we both agreed that
 this would be a fun project to do for me as well. The exercise went from bunch
@@ -46,7 +46,7 @@ since I was able to skip the tedious process of reading books cover to cover
 and doing small boring tasks. We went more of the [Rousseau][rousseau_wiki]
 path, of picking a project, and then learning as we go with a small foundation
 to iterate upon and an idea of how Ruby works and what we can do with it. _The
-gist of Rousseau's ideas on education is to find what the student is interested 
+gist of Rousseau's ideas on education is to find what the student is interested
 in learning, to peak their interest._
 
 _I was motivated by writing code instead of reading about it_, so that's what
