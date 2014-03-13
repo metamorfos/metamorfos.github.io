@@ -27,6 +27,41 @@ the extra time of translating what I my production code is doing to a DSL.
 My code is written in Ruby for a reason, it's simple and clear. I want my tests
 to be the same. No magic, no ponies, just Ruby.
 
+## Example
+
+{% highlight ruby %}
+class TestMeme < Minitest::Test
+  def setup
+    @meme = Meme.new
+  end
+
+  def test_that_kitty_can_eat
+    assert_equal "OHAI!", @meme.i_can_has_cheezburger?
+  end
+
+  def test_that_it_will_not_blend
+    refute_match /^no/i, @meme.will_it_blend?
+  end
+
+  def test_that_will_be_skipped
+    skip "test this later"
+  end
+end
+{% endhighlight %}
+
+What's important to me is that `TestMeme` is just a simple subclass, and
+`test_that_kitty_can_eat` is a simple method. If you want a better assertion,
+then it's just a method definition away.
+
+{% highlight ruby %}
+def assert_palindrome string
+  reverse = string.reverse
+  assert_equal reverse, string
+end
+{% endhighlight %}
+
+## Conclusion
+
 Structuring your tests is as easy as structuring your code. Do you have a lot
 of repetition in your tests? Extract into a Mixin and include it. Do you want
 to write your own matcher to be more expressive? It's just a method away.
