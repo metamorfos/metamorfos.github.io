@@ -1,5 +1,5 @@
 permalink: /:year/:month/:title
-pygments: true
+highlighter: "pygments"
 
 production_url: http://teoljungberg.com
 title: Teo Ljungberg
