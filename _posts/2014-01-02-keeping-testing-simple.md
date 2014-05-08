@@ -14,6 +14,7 @@ of "correctness" that are enforced when you are writing a spec gives too much
 overhead.
 
 My long-term mentor [Sirupsen][simon-twitter] [wrote][simon-article]:
+
 > Tests should be the most transparent part of your stack. They are your
 > definitive documentation, and something you will come back to again and
 > again. And what is more lucid than the programming language you've been using
