@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 10px;
     font-family: 'Droid Serif', serif;
     font-weight: normal;
-  }
+}
 
 h1 {
     font-size: 130%;
@@ -49,7 +49,7 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 .title a {
@@ -114,7 +114,10 @@ ul.unindent li {
 
 .title {
     font-weight: bold;
-    margin-bottom: 2em;
+}
+
+.title h1 {
+    display: inline-block;
 }
 
 .site .title a {
