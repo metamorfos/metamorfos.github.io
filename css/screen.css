@@ -11,6 +11,7 @@ body {
     background-color: white;
     font-family: 'EB Garamond', serif;
     -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
     text-align: center;
     color: #222;
 }
