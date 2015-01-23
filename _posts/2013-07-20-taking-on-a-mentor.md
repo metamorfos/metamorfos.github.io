@@ -50,7 +50,7 @@ gist of Rousseau's ideas on education is to find what the student is interested
 in learning, to peak their interest._
 
 _I was motivated by writing code instead of reading about it_, so that's what
-we the first couple of weeks. After a while, structuring and designing
+we did the first couple of weeks. After a while, structuring and designing
 systems in terms of maintainability started to interest me. As soon as anything
 new sparked my interest, we started to dive into that specific subject to
 facilitate this learning.
