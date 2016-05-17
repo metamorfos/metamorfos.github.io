@@ -1,3 +1,1 @@
-# teoljungberg.com
-
-My personal website and blog.
+The home of https://teoljungberg.com
