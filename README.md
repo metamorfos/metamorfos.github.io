@@ -1,1 +1,1 @@
-The home of https://teoljungberg.com
+The home of http://teoljungberg.com
