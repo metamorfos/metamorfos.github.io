@@ -129,3 +129,32 @@ p {
   background: #cce7ef;
   text-shadow: none;
 }
+
+.values {
+  margin: auto;
+  max-width: 600px;
+  text-align: left;
+  margin-bottom: 2em;
+}
+
+@media (max-width: 600px) {
+  .values {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 450px) {
+  .values {
+    max-width: 80%;
+  }
+}
+
+.values > h1 {
+  font-size: 2em;
+  margin-top: 1em;
+}
+
+.values > b {
+  display: inline-block;
+  margin-top: 1em;
+}
