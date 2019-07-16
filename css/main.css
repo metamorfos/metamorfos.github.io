@@ -154,7 +154,6 @@ p {
   margin-top: 1em;
 }
 
-.values > b {
-  display: inline-block;
-  margin-top: 1em;
+.values > h2 {
+  font-size: 1.25em;
 }
