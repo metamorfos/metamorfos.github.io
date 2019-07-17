@@ -131,6 +131,7 @@ p {
 }
 
 .values {
+  margin-bottom: 1em;
   margin: auto;
   max-width: 600px;
   text-align: left;
